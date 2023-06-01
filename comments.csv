@@ -1,0 +1,101 @@
+index,item
+0,wow best teacher ever seen!
+1,God bless you!MashaAllah good tutorial
+2,"Anyone knows how to directly access a certain page withint content script? If I use &quot;inspect&quot; in chrome I&#39;m getting into the context that contains a method I want to use, but I don&#39;t know how to get into that context from chrome extension"
+3,"Unfortunately, with manifest v3 most of the things have changed :( Can you make videos about manifest v3"
+4,For version 3: - <br>&quot;background&quot;: {<br>    &quot;service_worker&quot;: &quot;background.js&quot;<br>  }
+5,How to move content from content.js to background.js
+6,"In manifest v3:<br><br>&quot;background&quot;: {&quot;service_worker&quot;: &quot;background.js&quot;}<br><br>Also make sure to add:  &quot;action&quot;: {&quot;default_title&quot;: &quot;example&quot;}<br><br><br>*Generally, make sure you refresh the &quot;test&quot; tab after updating the extention.<br>*If there&#39;s still an issue, there&#39;s a problem with your implementation."
+7,This series has made me an even bigger coding train fan.
+8,I feel like liking and subscribing thx :)
+9,Could you please redo it with Manifest 3? Great course btw
+10,holly awesome stuff!
+11,"how to use multiple script files in Manifest V3, as now it accepts only String not an array."
+12,"Thanks for the great content CT.<br><a href=""https://www.youtube.com/watch?v=ew9ut7ixIlI&amp;t=6m45s"">6:45</a> - If there&#39;s multiple browser actions possible, how does the browser know which event handler to match each action? At this point there&#39;s only one action. But what if there&#39;s two buttons."
+13,"in manifest version 3 browserAction  is updated to action , use this if you wrer also get stucked like me"
+14,How much can be done with service workers and  manifest v3.  In 6 month all usages of background scripts in major browsers will be gone.
+15,can we send message from content script to background script ?
+16,"You&#39;re second to none, just awesome."
+17,Such a great playlist it&#39;s a shame that the syntax in different from manifest 2 to manifest 3 but it&#39;s still worth it :)
+18,"Thank you very much for these videos, you are a great teacher!! Though, I&#39;m having troubles following, because I get a message telling V2 is deprecated, is there an easy way to do it with V3, I&#39;m trying, but I get errors and are difficult to debug"
+19,"Hi Daniel, thanks for all your lessons in chrome extensions ... <br>but i have a question : <br>i use in Firefox <br>this function <br> var filter = browser.webRequest.filterResponseData(details.requestId);<br>but this is in Chrome not aviable. <br>my question is how is it possible to get the xhr response what is seen in the developer page (F12) ? <br>If i a member in your comunity is it possible to get an tipp or answer then ? if yes i will be a member :-)"
+20,"How can I make on/off feature of extension, just like &#39;page ruler&#39; extension once I clicking my extension it is always opened.<br>,what I want is it should get off when I click it on again<br><br>@The Coding Train"
+21,Is there anyway to use chrome.browserAction.onClicked.addListener in background.js while using default pop.html?<br><br>It&#39;s like I&#39;m trying to make a multipurpose extension where on clicking extension icon there comes up a popup with button nd then one of the button click should be responsible for fetching tab id.<br>Is it possible?
+22,Man what a superb tutorial. Thank you!
+23,"I watch you for the first time, and haha I can&#39;t stop myself saying Thank you to you. Just love the way you teach, haha with full of excitement and enthusiasm. Love your work, brother."
+24,Thanks a lot! ❤
+25,"Thanks, man! Literally solved my problem. Your model video format is the GOAT in IMHO."
+26,Köszönjük!
+27,A Ghajini teacher who always forget code syntax. 😄😄
+28,I remember once slightly disliking him for being &quot;too childish&quot; but now that ik more about coding i love watching him cuz he&#39;s just as lost as i am when writing code LMAO
+29,I love you!
+30,thank you so much for creating these helpful videos on chrome extensions!
+31,<b>*can we  handle browser extensions like VPN Enable Disable using command...in short can we make script that when we run it open browser and enable vpn  itself automatically....*</b>
+32,"I hope someone can help me, I want a code that highlight specific words in a page. I suck at coding. FYI, this code will be used to safe lives, so please help me"
+33,Thanks
+34,where can i design the button
+35,this idea is cool . Click on button and add picture as backround on pc mobile tablets. I just need to get this system ow to find user resolution
+36,Wow man!! you are one of the biggest things of the world!! xD<br><br><br>THANKS A LOT!! Amazing explanation about Chrome extensions
+37,Thanks very much. Very useful videos.
+38,i want to build a chrome extension in such a way that it only works if the browser url contains some string.                                             Ex if url contains &quot;CodingTarin&quot; i want to show the extension if URL doesn&#39;t contain &quot;codingTrain&quot; i dont want to show the extension.
+39,"honestly, if you want to get a good grip of coding fundamentals, try The Coding Train or Net Ninja. they have the best content"
+40,at 13 min i m getting a error
+41,Thanks!
+42,"They day  when the bananas and papayas join forces, they will take over the world and destroy it"
+43,"This is great, thanks for this video :)"
+44,you made the best chrome tutorials ever!
+45,This is gold!!!
+46,Thanks for the amazing tutorials
+47,Thank you so much!
+48,what should I do if I want to connect it to a database?
+49,your way of explanation is super easy to understand thank you so much
+50,"So, I am programming in JS and html to make a button menu which redirects the current tab to a webpage, but i can&#39;t figure it out. Can you help me out ? any tutorials ? discord call ? Would help me a lot !"
+51,is there any way to pass message from one tab to another?
+52,I love your content!  Pardon me for saying but you remind of what Mr. Rogers would be like after 4 double-shot espressos. :-)  Very useful content!!
+53,"excellent content, and excellent teacher as well"
+54,How can I learn these chrome API codes. Documents?
+55,"I can&#39;t find source code for this video on your github, can you tell me the direct link? Thanks!"
+56,Very good way of explaining!!!
+57,few things in life are more enjoyable than to sit through a lecture of a programmer who has total control over their craft.
+58,"The is the last Chrome extension tutorial serial I am going to watch, since I don&#39;t need any others anymore."
+59,"thank you , you are the best one"
+60,Thanks &lt;3
+61,You are the man.
+62,awesome tutorial
+63,I hate learning from videos. its not only time consuming but runs without my consent. Source code is the real gift. did you use Bluetooth to switch scenes in obs?
+64,He&#39;s clearly on coke
+65,And how do I stop these chrome-extension manifest json from creating new tabs when I open my chrome browser? I tried to delete everything that could have a json in its filename and still get them.
+66,"First, sorry for my English. I am not speak English very well. But, how I can work with another browser, for example, Edge or Firefox?"
+67,"Sir background extension not work ,what i do plz help"
+68,loved it!!!
+69,I made a chrome extension and blamed it on some poor guy in Bangladesh.
+70,You done great work 💗☮️🎂👏
+71,You done super😀🎂☮️
+72,"You have explained a subject that I had difficulty in establishing a connection, very well, thanks to you."
+73,"Subscribed man, you are AWESOME!!"
+74,Can i use python for creating extension
+75,"For us who learn every lecture on you YouTube, there is now an extension that skips to the start of the video content <a href=""https://chrome.google.com/webstore/detail/next/aclkmblkmoldkfnigilodenpofmenoag"">https://chrome.google.com/webstore/detail/next/aclkmblkmoldkfnigilodenpofmenoag</a>"
+76,"Hello , can anyone help me please !!<br>i have python file lets say <a href=""http://1.py/"">1.py</a> i want to run this file i click on browser extention button<br>so how can i do this ??"
+77,"Hello, i want to ask something. I build a Chrome Extension that need to access library from node modules. And i tried to call the library with &#39;require&#39;. Of course there is error message says &quot;Uncaught ReferenceError: require is not defined&quot;. So, is there another way to call all the functions on the library from node modules to my script? Thanks."
+78,"Can you show if I clicked extension again, it can undo the color??"
+79,"<a href=""https://www.youtube.com/watch?v=ew9ut7ixIlI&amp;t=14m15s"">14:15</a> nice summary! thanks Dan!"
+80,Thumbs down is not sufficient in a video of this nature you need to alegate.
+81,You&#39;re fucking amazing dude. I can now finally delete all distractions when browsing the web. Chrome extensions are so easy to code yet insanely powerful
+82,"Great job and dynamic explanation. Anyway, as you said you just scratch over the surface of this. Im trying to find the way to get info from the API in my website but is really tricky. In my browser action there is Popup.html with a button that calls a content.js witch tries to get data from web API. This communication is not like the background does, I mean, is directly loading in de actual website. The point is, how can I get info, for example an Array like the API provides and manage it to do things. Thanks."
+83,"For people running into this problem, the chrome.browserAction object is only created (in the background page) for extensions with a browser_action (doesn&#39;t even need default_icon) defined in the manifest."
+84,Fantastic! I am a noob and this helped a lot. Thank you
+85,"Hi,  you are great teacher not just because you are sharing your knowledge but also because you look very happy about what you are doing. Thanks for inspiring us."
+86,Best Youtuber ever!
+87,I wish you are my college lecturer. I definitely will come into your class every single day! what a great teacher you are..
+88,"Thanks a lot for this tutorial. <br>I had a doubt though:<br>If I want to continuously record the history and the tabs opened in chrome, how do i define all that in my background.js file.?"
+89,"Hi All ,  9 -2019 Update! [ I Think :D ]<br>Just realized that<br> chrome.browserAction.onClicked.addListener(callback) has been replaced with chrome.runtime.onInstalled.addListener(callback)"
+90,"Hey Hello,<br>Thank you your wonderful videos. Could you please help me the make a video for image scammer multiple image URL open with google chrome extension."
+91,wheeeere do you learn all these cool stuff you have on the channel ?
+92,That was really helpful. Thanks .
+93,Excellent and funny to teaching tanx
+94,I love you Coding Train
+95,"Hi Sir, Could you pls help me with how can we close the current tab on the button click using chrome.tabs.remove"
+96,You are so lovely i love u
+97,Which compiler you use? where do you program the extension?
+98,15: 15 &quot;I did not trigger that sound effect&quot; - Top 10 lies science still can&#39;t figure out .
+99,How to make the background script call the content script every time the users does an action on the page? I want to record all the user&#39;s actions in order to later on display all the actions to the user.
