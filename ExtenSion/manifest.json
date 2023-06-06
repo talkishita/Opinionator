@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name":"Opinionator",
+    "decription": "An Extension that reads the comments and helps you know the negative and positive reviews",
+    "version": "1.0",
+    "permissions": ["activeTab","declarativeContent"],
+    "host_permissions": ["http://127.0.0.1:5000/*"],
+    "action":{
+        "default_title": "Review",
+        "default_popup": "popup.html"
+    }
+}

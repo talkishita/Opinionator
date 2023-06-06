@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+body{
+    width: max-content;
+    max-width: 1000px;
+}
+button{
+    background-color: slategray;
+    color: white;
+    border-radius: 8px;
+    width: max-content;
+    height: max-content;
+    padding: 20px;
+    font-size: large;
+    margin: auto;
+    display: block;
+    border-color: black;
+}
+button[disabled] {
+    background-color: slateblue;
+    color: white;
+    border-radius: 8px;
+    width: max-content;
+    height: max-content;
+    font-size: large;
+    margin: auto;
+    display: block;
+    border-color: black;
+}
+#negt, #post {
+    color: black; 
+    width: max-content;
+    height:fit-content;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+/* .container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+} */
